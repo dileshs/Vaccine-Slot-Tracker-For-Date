@@ -37,7 +37,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import com.dilesh.VaccineSlotTracker.helper.SlotDetailHelper;
-import com.dilesh.VaccineSlotTracker.model.Response;
 import com.dilesh.VaccineSlotTracker.model.Sessions;
 
 @Service
